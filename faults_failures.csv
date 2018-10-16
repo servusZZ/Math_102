@@ -1,0 +1,7 @@
+fault-ID,failure
+Math-102-102,org.apache.commons.math.stat.inference.ChiSquareFactoryTest#testChiSquareLargeTestStatistic
+Math-102-102,org.apache.commons.math.stat.inference.ChiSquareFactoryTest#testChiSquare
+Math-102-102,org.apache.commons.math.stat.inference.ChiSquareTestTest#testChiSquareLargeTestStatistic
+Math-102-102,org.apache.commons.math.stat.inference.ChiSquareTestTest#testChiSquare
+Math-102-102,org.apache.commons.math.stat.inference.TestUtilsTest#testChiSquareLargeTestStatistic
+Math-102-102,org.apache.commons.math.stat.inference.TestUtilsTest#testChiSquare
